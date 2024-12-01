@@ -1,5 +1,5 @@
 # [jaɪks]: Just Another IPA Keyboard - Simplified
-**Just Another IPA Keyboard - Simplified, [jaɪks] for short,** is just another IPA keyboard. (The name was inspired by [a song](https://www.youtube.com/watch?v=6mh8q45jBjI)) by [Yozoh](https://en.wikipedia.org/wiki/Yozoh).
+**Just Another IPA Keyboard - Simplified, [jaɪks] for short,** is just another IPA keyboard. (The name was inspired by [a song](https://www.youtube.com/watch?v=6mh8q45jBjI) by [Yozoh](https://en.wikipedia.org/wiki/Yozoh).)
 
 [세상에는 이렇게, IPA 입력법이 많은데, 내가 "굳이 또 이렇게 IPA 키보드"(Just another IPA keyboard)를 만들고 있어요](https://www.youtube.com/watch?v=6mh8q45jBjI).
 
